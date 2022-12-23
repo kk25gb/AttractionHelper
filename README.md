@@ -1,4 +1,4 @@
-# ah_vue_node
+# Attraction Helper
 
 > A Vue.js project
 
