@@ -1,7 +1,7 @@
 # Attraction Helper
 
-> A project website that provides attraction information to the viewers. \n
-I used Vue.js to build the frontend of this website and used SQL DB to store all the testing data.
+> A project website that provides attraction information to the viewers.
+> I used Vue.js to build the frontend of this website and used SQL DB to store all the testing data.
 
 ## Build Setup
 
