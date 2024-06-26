@@ -1,7 +1,12 @@
 # Attraction Helper
 
-> A project website that provides attraction information to the viewers.
-> I used Vue.js to build the frontend of this website and used SQL DB to store all the testing data.
+A project website that provides attraction information of Taiwan to the viewers.
+
+Functions include browsing all attractions, browsing attractions by categories and location, adding attractions to personal to-go list, etc.
+
+>Used Vue.js to build the frontend of this website.
+
+>Used MySQL relational DB to store all the attraction information ans user data.
 
 ## Build Setup
 
