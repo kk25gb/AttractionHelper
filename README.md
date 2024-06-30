@@ -6,7 +6,7 @@ Functions include browsing all attractions, browsing attractions by categories a
 
 >Used Vue.js to build the frontend of this website.
 
->Used MySQL relational DB to store all the attraction information ans user data.
+>Used local MySQL DB to store all the attraction information ans user data.
 
 ## Build Setup
 
